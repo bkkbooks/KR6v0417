@@ -1,0 +1,612 @@
+canonical_identifier: bkk:krp/KR6v0417/v1
+canonical_location: https://kanripo.org/bkk/KR6v0417/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 三階教殘卷
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B26/B26n0147.xml
+    old_id: B26n0147
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0417_000.yaml, hash: 'sha256:fbbc54e239da069c9c85181d475b460d6531d84adcb63833f2ca67a7a5fe3c15'}
+  - {seq: 5, filename: KR6v0417_005.yaml, hash: 'sha256:b4569537f0e1c928f7dacf3547eb76f45bf23843255e477d4635b802531c27a8'}
+  - {seq: 9, filename: KR6v0417_009.yaml, hash: 'sha256:a4189a917d4edfaf4b6a6b08755cb21969692830fdaefe65aa39229990da943b'}
+  - {seq: 11, filename: KR6v0417_011.yaml, hash: 'sha256:2740c8318b60e270df2169848250bcf788e13bc0946e62808afff4efbecdca28'}
+  - {seq: 14, filename: KR6v0417_014.yaml, hash: 'sha256:db7bb2fbe28dec29a99e7ee4c6afd4d2382ffa4f3b0c492f9a36d20a4d519f60'}
+  - {seq: 15, filename: KR6v0417_015.yaml, hash: 'sha256:1ef9d4edc6c411e0a2de3793b447fd4fb7b80569aad7f1fd0fe14acda92f991c'}
+  - {seq: 16, filename: KR6v0417_016.yaml, hash: 'sha256:4353b348a7f4454c2040fee800374ef18c450db4e5d83494f39c4a372c3a093b'}
+  - {seq: 17, filename: KR6v0417_017.yaml, hash: 'sha256:45a4e67480520a669dd3fc665ea15cfd429b93f0e90e0d0b35d8fd12d2d60603'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0417_000.markers.yaml, hash: 'sha256:34cc71845e8a7c09ac50e4939b0041b6bbb9669aa6123ad9cec7be710f3c8b63'}
+  - {seq: 5, role: markers, filename: assets/KR6v0417_005.markers.yaml, hash: 'sha256:88b2a8ca7c735a40d9e5231a09a132e14cc97729111b8ce6253a27273d88fa53'}
+  - {seq: 9, role: markers, filename: assets/KR6v0417_009.markers.yaml, hash: 'sha256:3b077039841d76ffe5f61cf1f70b6301d0c1c20ca6393ed692adbe743b85ae1f'}
+  - {seq: 11, role: markers, filename: assets/KR6v0417_011.markers.yaml, hash: 'sha256:5a49d29d079dd7ccbea6b9dd6983721b19daf56a1aa14cac99fbf87462d0c563'}
+  - {seq: 14, role: markers, filename: assets/KR6v0417_014.markers.yaml, hash: 'sha256:abf506d6400f6ffca35d4a031e8794ed82249c079c97850dda390e5f1157602c'}
+  - {seq: 15, role: markers, filename: assets/KR6v0417_015.markers.yaml, hash: 'sha256:ceb1ed97b0e877161ac7ebe8063c4d4005eb291a8a36e9f949d289a8467bda71'}
+  - {seq: 16, role: markers, filename: assets/KR6v0417_016.markers.yaml, hash: 'sha256:9ff82e5ad4a681cbf039cf420e4004c9bae6db3250c97fab985943b364fb76ce'}
+  - {seq: 17, role: markers, filename: assets/KR6v0417_017.markers.yaml, hash: 'sha256:05cceb9047f4443bf40ac456aca88f92e18f794e1357f3b89990c90c15632cce'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-2
+    span:
+    - front
+    - 358
+    - 358
+  label: 簡介
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-3
+    span:
+    - front
+    - 358
+    - 358
+  label: 小引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-4
+    span:
+    - front
+    - 775
+    - 775
+  label: 三階教典籍略介
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-5
+    span:
+    - front
+    - 785
+    - 785
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-6
+    span:
+    - front
+    - 1301
+    - 1301
+  label: （一）、信行遺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-7
+    span:
+    - front
+    - 1471
+    - 1471
+  label: （二）、三階佛法卷二卷三
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-8
+    span:
+    - front
+    - 1543
+    - 1543
+  label: （三）、日本所傳三階佛法四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-9
+    span:
+    - front
+    - 1774
+    - 1774
+  label: （四）、三階佛法密記卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-10
+    span:
+    - front
+    - 1923
+    - 1923
+  label: （五）、對根起行法
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-11
+    span:
+    - front
+    - 2145
+    - 2145
+  label: （六）、無盡藏法略說、大乘法界無盡藏法釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-12
+    span:
+    - front
+    - 2402
+    - 2402
+  label: （七）、七階佛名經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-13
+    span:
+    - front
+    - 2464
+    - 2464
+  label: 敦煌本「三階佛法」表解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-14
+    span:
+    - front
+    - 2482
+    - 2482
+  label: 【卷第一】
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-15
+    span:
+    - front
+    - 2668
+    - 2668
+  label: 【卷第二】
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-16
+    span:
+    - front
+    - 3070
+    - 3070
+  label: 【卷第三．卷第四】
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-17
+    span:
+    - front
+    - 3620
+    - 3620
+  label: 信行與三階教
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-18
+    span:
+    - front
+    - 3629
+    - 3629
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-19
+    span:
+    - front
+    - 3920
+    - 3920
+  label: 一、信行其人之傳略與風格
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-20
+    span:
+    - front
+    - 4925
+    - 4925
+  label: 二、信行之三階教法的根本大義
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-21
+    span:
+    - front
+    - 7617
+    - 7617
+  label: 三、信行之三階佛法的歷史意義
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-22
+    span:
+    - front
+    - 9052
+    - 9052
+  label: 四、從三階教團的發展看信行在佛教史上的地位
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-23
+    span:
+    - front
+    - 9901
+    - 9901
+  label: 燉煌出土三階教殘卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-24
+    span:
+    - front
+    - 9910
+    - 9910
+  label: 原書目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-25
+    span:
+    - front
+    - 10106
+    - 10106
+  label: 教籍
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-26
+    span:
+    - front
+    - 11890
+    - 11890
+  label: 燉煌所傳　三階佛法卷二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-27
+    span:
+    - front
+    - 28763
+    - 28763
+  label: 燉煌所傳　三階佛法卷三
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0417_B_000-mulu-28
+    span:
+    - front
+    - 37797
+    - 37797
+  label: 三階佛法密記卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0417_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 41544
+  label: 三階佛法密記卷上　釋本第一卷盡
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0417_B_005-mulu-1
+    span:
+    - body
+    - 15058
+    - 15058
+  label: 對根起行法
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0417_B_005-mulu-2
+    span:
+    - body
+    - 34025
+    - 34025
+  label: 无盡藏法畧說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0417_B_005-mulu-3
+    span:
+    - body
+    - 35542
+    - 35542
+  label: 大乘法界无盡藏法釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0417_B_005-mulu-4
+    span:
+    - body
+    - 41349
+    - 41349
+  label: 七階佛名經
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0417_B_009-juan-start
+    span:
+    - body
+    - 0
+    - 9391
+  label: 七階佛名
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0417_B_009-mulu-1
+    span:
+    - body
+    - 3435
+    - 3435
+  label: 信行口集真如實觀起序卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0417_B_009-mulu-2
+    span:
+    - body
+    - 7031
+    - 7031
+  label: 普法四佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0417_B_009-mulu-3
+    span:
+    - body
+    - 9151
+    - 9151
+  label: 如來身藏論
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-juan-start
+    span:
+    - body
+    - 0
+    - 13053
+  label: 如來身藏論一卷（第十斷片）
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-1
+    span:
+    - body
+    - 1012
+    - 1012
+  label: 第十三斷片
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-2
+    span:
+    - body
+    - 1960
+    - 1960
+  label: 第十七斷片
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-3
+    span:
+    - body
+    - 2303
+    - 2303
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-4
+    span:
+    - body
+    - 2345
+    - 2345
+  label: 人集錄都目
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-5
+    span:
+    - body
+    - 3321
+    - 3321
+  label: 龍錄內無名經論律
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-6
+    span:
+    - body
+    - 3464
+    - 3464
+  label: 本邦所傳貞元新定釋教目錄卷卅（三階教籍目）
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-7
+    span:
+    - body
+    - 4333
+    - 4333
+  label: 偽經
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-8
+    span:
+    - body
+    - 4333
+    - 4333
+  label: 示所犯者瑜伽法鏡經
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-9
+    span:
+    - body
+    - 12829
+    - 12829
+  label: 本邦所傳三階佛法
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-10
+    span:
+    - body
+    - 12837
+    - 12837
+  label: 原書目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-11
+    span:
+    - body
+    - 12881
+    - 12881
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0417_B_011-mulu-12
+    span:
+    - body
+    - 12960
+    - 12960
+  label: 卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0417_B_014-juan-start
+    span:
+    - body
+    - 0
+    - 10661
+  label: 三階佛法卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0417_B_014-mulu-1
+    span:
+    - body
+    - 10572
+    - 10572
+  label: 卷第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0417_B_015-juan-start
+    span:
+    - body
+    - 0
+    - 17178
+  label: 三階佛法卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0417_B_015-mulu-1
+    span:
+    - body
+    - 17073
+    - 17073
+  label: 卷第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0417_B_016-juan-start
+    span:
+    - body
+    - 0
+    - 21948
+  label: 三階佛法卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0417_B_016-mulu-1
+    span:
+    - body
+    - 21867
+    - 21867
+  label: 卷第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0417_B_017-juan-start
+    span:
+    - body
+    - 0
+    - 16833
+  label: 三階佛法卷第四
+  type: juan
+  level: 1
+hash: sha256:0e2e597cb531cb389d736dbe76e54ad12413f1a32174d3b64ec813af83943b5a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

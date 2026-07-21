@@ -19,7 +19,7 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0417_000-B.yaml, hash: 'sha256:b11423e81ec026d7f54b21e6d132d28ee7bab29164bfe2b265a48b4bb3ca5410'}
+  - {seq: 0, filename: KR6v0417_000-B.yaml, hash: 'sha256:34d39f511439a74adc779a2df305b5e36340244dbeefc066e826c3d77c1fd53f'}
   - {seq: 5, filename: KR6v0417_005-B.yaml, hash: 'sha256:65011f72bbec35b1185cd14490e1b99fa591c3b48844d3fe68ecfaa3b820f46b'}
   - {seq: 9, filename: KR6v0417_009-B.yaml, hash: 'sha256:a389726fa113315104e6618d9224e4fdc49b58ceec2ed313ec828e99467676f5'}
   - {seq: 11, filename: KR6v0417_011-B.yaml, hash: 'sha256:bd8d1d6a23b80c5ce88c9505500baf69229d97bceca9eaa256503fec82754e90'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 16, filename: KR6v0417_016-B.yaml, hash: 'sha256:109aa6569baa54c665b085c15921ccb1966fafbe4f45be35c4e4c637cf1f83a6'}
   - {seq: 17, filename: KR6v0417_017-B.yaml, hash: 'sha256:3ebfaf91299f74b4fea3d42e05bf288d2bb9fe4ed22922ca5f82b48485f5f790'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0417_000-B.markers.yaml, hash: 'sha256:92e597afbad865126be239e327a3fc7c9deec4200af8e8e2acde31b4de974b14'}
+  - {seq: 0, role: markers, filename: assets/KR6v0417_000-B.markers.yaml, hash: 'sha256:3744dbb6d8a122fd24a77a34233c788039c415d55273aa9ef7ae698a93df9c52'}
   - {seq: 5, role: markers, filename: assets/KR6v0417_005-B.markers.yaml, hash: 'sha256:0f6ea32c6840ba6a90857ef8de599ae92df4c2ab4bbd023b362b6c8a58b87e8d'}
   - {seq: 9, role: markers, filename: assets/KR6v0417_009-B.markers.yaml, hash: 'sha256:f69f509088148ec810b5d5e87e5069395abfddb2a9ea51261f8411d7f35443f7'}
   - {seq: 11, role: markers, filename: assets/KR6v0417_011-B.markers.yaml, hash: 'sha256:b1b5fa94eb70f890db954454e203afd5108c274484240698e57b158b5df75df9'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 凡例
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-2
     span:
-    - front
+    - body
     - 358
     - 358
   label: 簡介
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-3
     span:
-    - front
+    - body
     - 358
     - 358
   label: 小引
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-4
     span:
-    - front
+    - body
     - 775
     - 775
   label: 三階教典籍略介
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-5
     span:
-    - front
+    - body
     - 785
     - 785
   label: 前文
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-6
     span:
-    - front
+    - body
     - 1301
     - 1301
   label: （一）、信行遺文
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-7
     span:
-    - front
+    - body
     - 1471
     - 1471
   label: （二）、三階佛法卷二卷三
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-8
     span:
-    - front
+    - body
     - 1543
     - 1543
   label: （三）、日本所傳三階佛法四卷
@@ -121,7 +121,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-9
     span:
-    - front
+    - body
     - 1774
     - 1774
   label: （四）、三階佛法密記卷上
@@ -131,7 +131,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-10
     span:
-    - front
+    - body
     - 1923
     - 1923
   label: （五）、對根起行法
@@ -141,7 +141,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-11
     span:
-    - front
+    - body
     - 2145
     - 2145
   label: （六）、無盡藏法略說、大乘法界無盡藏法釋
@@ -151,7 +151,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-12
     span:
-    - front
+    - body
     - 2402
     - 2402
   label: （七）、七階佛名經
@@ -161,7 +161,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-13
     span:
-    - front
+    - body
     - 2464
     - 2464
   label: 敦煌本「三階佛法」表解
@@ -171,7 +171,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-14
     span:
-    - front
+    - body
     - 2482
     - 2482
   label: 【卷第一】
@@ -181,7 +181,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-15
     span:
-    - front
+    - body
     - 2668
     - 2668
   label: 【卷第二】
@@ -191,7 +191,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-16
     span:
-    - front
+    - body
     - 3070
     - 3070
   label: 【卷第三．卷第四】
@@ -201,7 +201,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-17
     span:
-    - front
+    - body
     - 3620
     - 3620
   label: 信行與三階教
@@ -211,7 +211,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-18
     span:
-    - front
+    - body
     - 3629
     - 3629
   label: 前文
@@ -221,7 +221,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-19
     span:
-    - front
+    - body
     - 3920
     - 3920
   label: 一、信行其人之傳略與風格
@@ -231,7 +231,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-20
     span:
-    - front
+    - body
     - 4925
     - 4925
   label: 二、信行之三階教法的根本大義
@@ -241,7 +241,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-21
     span:
-    - front
+    - body
     - 7617
     - 7617
   label: 三、信行之三階佛法的歷史意義
@@ -251,7 +251,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-22
     span:
-    - front
+    - body
     - 9052
     - 9052
   label: 四、從三階教團的發展看信行在佛教史上的地位
@@ -261,7 +261,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-23
     span:
-    - front
+    - body
     - 9901
     - 9901
   label: 燉煌出土三階教殘卷
@@ -271,7 +271,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-24
     span:
-    - front
+    - body
     - 9910
     - 9910
   label: 原書目次
@@ -281,7 +281,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-25
     span:
-    - front
+    - body
     - 10106
     - 10106
   label: 教籍
@@ -291,7 +291,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-26
     span:
-    - front
+    - body
     - 11890
     - 11890
   label: 燉煌所傳　三階佛法卷二
@@ -301,7 +301,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-27
     span:
-    - front
+    - body
     - 28763
     - 28763
   label: 燉煌所傳　三階佛法卷三
@@ -311,7 +311,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0417_B_000-mulu-28
     span:
-    - front
+    - body
     - 37797
     - 37797
   label: 三階佛法密記卷上
@@ -607,4 +607,4 @@ table_of_contents:
   label: 三階佛法卷第四
   type: juan
   level: 1
-hash: sha256:4951e31bc08f7eb5bd01783adcf4f31caf7ac011d276b97a112c906af1bf4340
+hash: sha256:f52e49d117ef87026a4946437e4bf96077bbdcadc2c0f0de6c6501885760232e
